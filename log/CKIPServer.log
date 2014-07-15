@@ -1,0 +1,94 @@
+INFO(35817): Starting Ckipat Server
+INFO(35817): {
+    "max_file_size": 10485760, 
+    "log_file": "/home/wordseg/CKIPServer/log/CKIPServer.log", 
+    "log_level": "DEBUG", 
+    "max_children": 4, 
+    "section": "Server1", 
+    "pid_file": "/home/wordseg/CKIPServer/run/CKIPServer.pid", 
+    "ini": "/home/wordseg/WordSeg/ini/ws_uw.ini", 
+    "timeout": 120, 
+    "data_pool": "/home/wordseg/CKIPServer/pool/", 
+    "group": "wordseg", 
+    "log_format": "%(levelname)s(%(process)s): %(message)s", 
+    "password": "/home/wordseg/CKIPServer/etc/password.txt", 
+    "port": 1501, 
+    "user": "wordseg"
+}
+INFO(35827): connected from 140.109.19.126.
+INFO(35827): receive data:57854
+DEBUG(35827): processing ...
+DEBUG(35827): finished.
+INFO(35827): send data:192846
+INFO(35827): service finished.
+INFO(35839): connected from 140.109.19.126.
+INFO(35839): receive data:57854
+DEBUG(35839): processing ...
+DEBUG(35839): finished.
+INFO(35839): send data:192846
+INFO(35839): service finished.
+INFO(35841): connected from 140.109.19.126.
+INFO(35841): receive data:603797
+DEBUG(35841): processing ...
+DEBUG(35841): finished.
+INFO(35841): send data:2024841
+INFO(35841): service finished.
+INFO(61810): connected from 127.0.0.1.
+INFO(61810): receive data:103621
+DEBUG(61810): processing ...
+DEBUG(61810): finished.
+INFO(61810): send data:325281
+INFO(61810): service finished.
+INFO(62000): connected from 127.0.0.1.
+INFO(62000): receive data:148259
+DEBUG(62000): processing ...
+DEBUG(62000): finished.
+INFO(62000): send data:459996
+INFO(62000): service finished.
+INFO(62001): connected from 127.0.0.1.
+INFO(62001): receive data:134851
+DEBUG(62001): processing ...
+DEBUG(62001): finished.
+INFO(62001): send data:425099
+INFO(62001): service finished.
+INFO(62004): connected from 127.0.0.1.
+INFO(62004): receive data:126900
+DEBUG(62004): processing ...
+DEBUG(62004): finished.
+INFO(62004): send data:393199
+INFO(62004): service finished.
+INFO(29360): Starting Ckipat Server
+INFO(29360): {
+    "max_file_size": 10485760, 
+    "log_file": "/home/wordseg/CKIPServer/log/CKIPServer.log", 
+    "log_level": "DEBUG", 
+    "max_children": 4, 
+    "section": "Server1", 
+    "pid_file": "/home/wordseg/CKIPServer/run/CKIPServer.pid", 
+    "ini": "/home/wordseg/WordSeg/ini/ws_uw.ini", 
+    "timeout": 120, 
+    "data_pool": "/home/wordseg/CKIPServer/pool/", 
+    "group": "wordseg", 
+    "log_format": "%(levelname)s(%(process)s): %(message)s", 
+    "password": "/home/wordseg/CKIPServer/etc/password.txt", 
+    "port": 1501, 
+    "user": "wordseg"
+}
+INFO(11190): connected from 127.0.0.1.
+INFO(11190): receive data:436
+DEBUG(11190): processing ...
+DEBUG(11190): finished.
+DEBUG(11190): XML format error.
+INFO(11190): service finished.
+INFO(13344): connected from 127.0.0.1.
+INFO(13344): receive data:256
+DEBUG(13344): processing ...
+DEBUG(13344): finished.
+DEBUG(13344): Authentication failed.
+INFO(13344): service finished.
+INFO(19414): connected from 127.0.0.1.
+INFO(19414): receive data:253
+DEBUG(19414): processing ...
+DEBUG(19414): finished.
+INFO(19414): send data:252
+INFO(19414): service finished.
