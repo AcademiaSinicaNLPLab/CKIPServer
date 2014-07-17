@@ -61,7 +61,7 @@ class CkipSrv:
 	    m=re.search(r'<processstatus code=(.*)>(.*)</processstatus>',response)
 	    if m:
 		sys.stderr.write("ERROR(%s):%s\n"%(m.group(1),m.group(2)))
-		sys.exit(1)
+		#sys.exit(1)
 	    
 	if options['xml']:
 	    return response
